@@ -12,6 +12,14 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
+.jumbotron{
+    height: 90px;
+    padding:8px;
+    color:white;
+    text-align: start;
+    padding-right: 300px;
+}
+
 .container2{
     display: inline-block;
     margin-left: 40px;
