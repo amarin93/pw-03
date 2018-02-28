@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:400,700|Roboto:400,500');
+body{
+    background-image: url(../images/fondo.png)
+    
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Oswald', sans-serif;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+.medium-block{
+    display: inline-block;
+    height: 600px ;
+    width:600px ;
+    margin-left:40px;
+ 
+}
+
+.carousel-caption{
+top: 1px;
+bottom: auto;
+}
+
+.tarjetas{
+    position: relative;
+    display: inline-block;
+    bottom: 230px;
+    left: 30px;
+    margin-left: 100px;
+}
+
+.tarjetas2{
+    
+    position: relative;
+    display: inline-block;
+    bottom: 230px;
+    left: 40px;
+    margin-left: 100px;
+    
+
+}
+
+
+p{
+    color: white;
+}
+
+
+ /*Eventos */
+
+.jumbotron{
+    height: 90px;
+    padding:8px;
+    color:white;
+    text-align: start;
+    padding-right: 300px;
+}
+.card-deck{
+    color:black;
+    width: 1080px;
+    height: 400px;
+margin-top: 30px;
+
+}
+.cartas2{
+    color:black;
+    width: 1080px;
+    height: 400px;
+margin-top: 30px;
+margin-left: 235px;
+}
+
+
+/*Noticias */
+
+.container2{
+    display: inline-block;
+    margin-left: 40px;
+    margin-top: 0px;
+    width: 1006px;
+    height: 516px;
+   background: url(https://goo.gl/qGm1Ni)
+}
+.textblock{
+    display: inline-block;
+    margin-left: 40px;
+    width: 1006px;
+    height: 216px;
+}
+
+.textonoticia{
+    margin-top: 10px;
+    margin-left: 5px;
+    color: white;
+    columns: 2;
+}
+
+.tarjetanoticias{
+    display: inline-block;
+    position: relative;
+    
+    bottom: 730px;
+margin-left: 1150px
+}
