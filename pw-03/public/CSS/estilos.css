@@ -52,59 +52,8 @@ p{
 }
 
 
- /*Eventos */
-
-.jumbotron{
-    height: 90px;
-    padding:8px;
-    color:white;
-    text-align: start;
-    padding-right: 300px;
-}
-.card-deck{
-    color:black;
-    width: 1080px;
-    height: 400px;
-margin-top: 30px;
-
-}
-.cartas2{
-    color:black;
-    width: 1080px;
-    height: 400px;
-margin-top: 30px;
-margin-left: 235px;
-}
 
 
-/*Noticias */
 
-.container2{
-    display: inline-block;
-    margin-left: 40px;
-    margin-top: 0px;
-    width: 1006px;
-    height: 516px;
-   background: url(https://goo.gl/qGm1Ni)
-}
-.textblock{
-    display: inline-block;
-    margin-left: 40px;
-    width: 1006px;
-    height: 216px;
-}
 
-.textonoticia{
-    margin-top: 10px;
-    margin-left: 5px;
-    color: white;
-    columns: 2;
-}
 
-.tarjetanoticias{
-    display: inline-block;
-    position: relative;
-    
-    bottom: 730px;
-margin-left: 1150px
-}

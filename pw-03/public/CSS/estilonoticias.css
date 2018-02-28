@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:400,700|Roboto:400,500');
+body{
+    background-image: url(../images/fondo.png)
+    
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Oswald', sans-serif;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.container2{
+    display: inline-block;
+    margin-left: 40px;
+    margin-top: 0px;
+    width: 1006px;
+    height: 516px;
+   background: url(https://goo.gl/qGm1Ni)
+}
+.textblock{
+    display: inline-block;
+    margin-left: 40px;
+    width: 1006px;
+    height: 216px;
+}
+
+.textonoticia{
+    margin-top: 10px;
+    margin-left: 5px;
+    color: white;
+    columns: 2;
+}
+
+.tarjetanoticias{
+    display: inline-block;
+    position: relative;
+    
+    bottom: 730px;
+margin-left: 1150px
+}
